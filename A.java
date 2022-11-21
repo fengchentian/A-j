@@ -12,6 +12,7 @@ public class A {
 		b=s.indexOf('a');
 		System.out.println(b);
 		System.out.println(s.toUpperCase());
+		System.out.println(s.toLowerCase());
 		String s1=s.replace('a','A');
 		System.out.println(s1);
 		
